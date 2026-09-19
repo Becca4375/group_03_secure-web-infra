@@ -1,0 +1,10 @@
+This file confirms that the TLS private key (server.key) generated for
+this assignment has been intentionally withheld from the submission,
+in accordance with the assignment's security requirements.
+
+The private key is stored locally at /etc/nginx/ssl/server.key on the
+group's virtual machine with restricted permissions (chmod 600) and is
+never shared, uploaded, copied, or included in any submitted archive.
+
+Group: 02
+EOF
